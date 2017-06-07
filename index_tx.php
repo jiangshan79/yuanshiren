@@ -509,7 +509,8 @@ $yh_id=$_SESSION['yh_id'];
 }
 add_sou($bot_sou,$bot_category,$bot_content,'0','0',$yh_id);
 ?>
-21313123123123
-中文
+//21313123123123
+//中文
+//第五次修改
 
 
